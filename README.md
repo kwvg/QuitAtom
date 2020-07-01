@@ -4,7 +4,7 @@
 
 A tiny `AppleScript` based program that helps you Quit Atom on macOS when it doesn't want to. Based on my comment on [Atom Issue #17672](https://github.com/atom/atom/issues/17672), available [here](https://github.com/atom/atom/issues/17672#issuecomment-651799097) 
 
-#### How to first time setup
+### How to first time setup
 
 ```
 git clone https://github.com/kittywhiskers/QuitAtom && cd QuitAtom
