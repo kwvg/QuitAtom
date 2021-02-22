@@ -2,6 +2,8 @@
 
 ## QuitAtom
 
+**Warning ⚠️: [Issue #17672](https://github.com/atom/atom/issues/17672) has been resolved, please do not use QuitAtom anymore. This repository has been archived!**
+
 A tiny `AppleScript` based program that helps you Quit Atom on macOS when it doesn't want to. Based on my comment on [Atom Issue #17672](https://github.com/atom/atom/issues/17672), available [here](https://github.com/atom/atom/issues/17672#issuecomment-651799097) 
 
 ### How to first time setup
